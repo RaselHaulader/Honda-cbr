@@ -1,0 +1,43 @@
+/* font family  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+/*=========================
+common styles  
+========================== */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.orange-color{
+    color: #E76F51;
+}
+.cyan{
+    color: #23A6F0
+}
+/*=========================
+ header section style 
+========================== */
+
+header{
+    background-color:#264653;
+}
+
+.purchase-btn{
+       background-color:#E76F51;
+}
+.banner-details{
+    color:  #E0E0E0;
+}
+
+/*=========================
+ main- features section style 
+========================== */
+.gray-img{
+    filter: gray; 
+    -webkit-filter: grayscale(1); 
+    filter: grayscale(1); 
+}
+.fa-star{
+    color: #E76F51;
+    margin: 5px;
+}
